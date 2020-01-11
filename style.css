@@ -1,0 +1,17 @@
+#game {
+    border: 1px solid;
+    text-align: center;
+    background-color: black;
+    border-width: 1px;
+    border-color: white;
+    cursor: none;
+}
+body{
+    text-align:center;
+    background-color: #101010;
+    font-family: Roboto;
+    color: white;
+}
+#name{
+    color: cyan;
+}
